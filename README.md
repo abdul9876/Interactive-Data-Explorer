@@ -1,8 +1,8 @@
-# Pokémon Data Explorer
+# Podex App
 
 A modern, responsive React application that allows users to explore and filter Pokémon data from the PokeAPI.
 
-![Pokémon Data Explorer Screenshot](https://via.placeholder.com/800x450)
+
 
 ## Features
 
